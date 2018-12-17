@@ -1,0 +1,1 @@
+worper: node bot.js
